@@ -1,0 +1,5 @@
+Java is a multi-threaded language. This means that multiple threads run in parallel to complete
+program execution. If you are trying to execute a multi-threaded environment this is where 
+synchronization of objects takes place. The objects that are shared among multiple threads must 
+be synchronized in order to avoid unexpected behavior or any corruption. With this being said the synchronized run is more 
+reliable and has improved performance. 
